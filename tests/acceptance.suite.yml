@@ -9,7 +9,7 @@ modules:
     enabled:
         - WebDriver:
            url: 'https://netpeak.ua/'
-           browser: firefox
+           browser: chrome
         
         #- PhpBrowser:
         #    url: "https://netpeak.ua/"
